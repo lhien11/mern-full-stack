@@ -1,0 +1,4 @@
+/backend/uploads
+node_modules/
+frontend/.env
+backend/nodemon.json
